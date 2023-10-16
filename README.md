@@ -2,9 +2,11 @@
 <h1 align="center">Hi, I'm KEE SHIN PEARL</h1>
 <h3 align="center">I am a computer science student majoring Data Engineering in Universiti Teknologi Malaysia</h3>
 
-- 🌱 I’m currently learning **Python, Blender, Figma and more about data engineering**
+- 🌱 I’m currently learning **Java, Python and Blender**
 
-- 📫 How to reach me **shinpearl.k@gmail.com**
+- 📫 How to reach me
+  ** (personal)shinpearl.k@gmail.com**
+  ** (student)keepearl@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
