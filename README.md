@@ -1,4 +1,3 @@
-# README.md
 <h1 align="center">Hi, I'm KEE SHIN PEARL</h1>
 <h3 align="center">I am a computer science student majoring Data Engineering in Universiti Teknologi Malaysia</h3>
 
