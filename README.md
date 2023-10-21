@@ -61,5 +61,7 @@ I am KEE SHIN PEARL, currently a 3rd year student of computer science majoring d
 <br/>  
 
 ## Github Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinpearll&show_icons=true&locale=en&layout=compact" alt="shinpearll" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinpearll&show_icons=true&locale=en" alt="shinpearll" /></p>
 
