@@ -3,7 +3,8 @@
 Welcome to my GitHub corner. 
 I am KEE SHIN PEARL, currently a 3rd year student of computer science majoring data engineering in Universiti Teknologi Malaysia (UTM)
 
-<br/>    
+<br/> 
+
 ## About Me:
 
 - 📅 Born on 14.03.2002  
@@ -28,6 +29,7 @@ I am KEE SHIN PEARL, currently a 3rd year student of computer science majoring d
 </div>    
  
 <br/> 
+
 ## My Skill Set  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -45,16 +47,19 @@ I am KEE SHIN PEARL, currently a 3rd year student of computer science majoring d
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 </div>  
  
-<br/>  
+<br/> 
+
 ## Assignments & Projects
 
   
 
 <br/>  
+
 ## Achievements
 
   
 <br/>  
+
 ## Github Stats  
 
 
