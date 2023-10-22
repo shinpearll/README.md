@@ -1,7 +1,7 @@
 ## 👋 Hello World
 
 Welcome to my GitHub corner. 
-<br> My name is KEE SHIN PEARL. I am currently a 3rd year student of computer science majoring data engineering in Universiti Teknologi Malaysia (UTM)
+<br> My name is KEE SHIN PEARL. I am currently in my 3rd year pursuing a degree on computer science majoring data engineering in Universiti Teknologi Malaysia (UTM)
 
 <br/>
 
@@ -24,7 +24,7 @@ Welcome to my GitHub corner.
 
 ###
 
-<h2 align="left">💻 Skill Set</h2>
+## 💻 Skill Set
 
 ###
 
@@ -61,7 +61,7 @@ Welcome to my GitHub corner.
 
 ###
 
-<h2 align="left">🏆 License & Achievement</h2>
+# 🏆 License & Achievement
 
 [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/60b51e25-2558-4525-9301-d3c1be5280ec/public_url)
 
@@ -69,7 +69,7 @@ Welcome to my GitHub corner.
 
 ###
 
-<h2 align="left">📊 Github Stats</h2>
+## 📊 Github Stats
 
 ###
 
@@ -86,3 +86,8 @@ Welcome to my GitHub corner.
 </div>
 
 ###
+
+## 🌠 Let's Collaborate
+
+I thrive on curiosity and collaboration. Join me on this thrilling journey where we unravel the mysteries of captivating digital experiences.
+Together, we can create, innovate, and inspire.
