@@ -5,6 +5,7 @@
 <p align="left">Welcome to my GitHub corner. <br>My name is KEE SHIN PEARL. I am currently a 3rd year student of computer science majoring data engineering in Universiti Teknologi Malaysia (UTM)</p>
 
 <br/>
+
 ###
 
 <h2 align="left">🌊 About me</h2>
@@ -23,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 <br/>
+
 ###
 
 <h2 align="left">💻 Skill Set</h2>
@@ -59,10 +61,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 <br/>
+
 ###
 
 <h2 align="left">🏆 License & Achievement</h2>
 <br/>
+
 ###
 
 <h2 align="left">📊 Github Stats</h2>
@@ -74,6 +78,7 @@
   <img src="https://streak-stats.demolab.com?user=shinpearll&locale=en&mode=weekly&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <br/>
+
 ###
 
 <div align="center">
