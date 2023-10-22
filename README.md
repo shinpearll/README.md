@@ -1,22 +1,18 @@
-<h1 align="left">👋 Hello World</h1>
+## 👋 Hello World
 
-###
-
-<p align="left">Welcome to my GitHub corner. <br>My name is KEE SHIN PEARL. I am currently a 3rd year student of computer science majoring data engineering in Universiti Teknologi Malaysia (UTM)</p>
+Welcome to my GitHub corner. 
+<br> My name is KEE SHIN PEARL. I am currently a 3rd year student of computer science majoring data engineering in Universiti Teknologi Malaysia (UTM)
 
 <br/>
 
-###
-
-<h2 align="left">🌊 About me</h2>
+## 🌊 About me
 
 ###
-
-<p align="left">- 📅 Born on 14.03.2002  <br>
-  <br>- 🏫 Bachelor of Computer Science (Data Engineering) student in Universiti Teknologi Malaysia  <br>
-  <br>- 🧠 On a quest to explore deeper into the world of data with the science of algorithms and visually stunning designs  <br>  
-  <br>- 🌟 Fascinated by the power of data and the art of design to shape perceptions and experiences<br>
-  <br>- 🌐 Connect with me</p>
+- 📅 Born on 14.03.2002 
+- 🏫 Bachelor of Computer Science (Data Engineering) student in Universiti Teknologi Malaysia  
+- 🧠 On a quest to explore deeper into the world of data with the science of algorithms and visually stunning designs  
+- 🌟 Fascinated by the power of data and the art of design to shape perceptions and experiences
+- 🌐 Connect with me
 
 <div align="center">
   [![Email Badge]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](keepearl@graduate.utm.my)
