@@ -5,7 +5,7 @@ I am KEE SHIN PEARL, currently a 3rd year student of computer science majoring d
 
 <br/> 
 
-## About Me:
+## 💫 About Me:
 
 - 📅 Born on 14.03.2002  
   
@@ -30,7 +30,7 @@ I am KEE SHIN PEARL, currently a 3rd year student of computer science majoring d
  
 <br/> 
 
-## My Skill Set  
+## 💻 Skill Set  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -60,8 +60,7 @@ I am KEE SHIN PEARL, currently a 3rd year student of computer science majoring d
   
 <br/>  
 
-## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinpearll&show_icons=true&locale=en&layout=compact" alt="shinpearll" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinpearll&show_icons=true&locale=en" alt="shinpearll" /></p>
-
+## 📊 Github Stats  
+![](https://github-readme-stats.vercel.app/api?username=shinpearll&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shinpearll&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinpearll&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
