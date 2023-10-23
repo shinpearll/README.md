@@ -1,5 +1,11 @@
 ## 👋 Hello World
 
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
 Welcome to my GitHub corner. 
 <br> My name is KEE SHIN PEARL. I am currently in my 3rd year pursuing a degree on computer science majoring data engineering in Universiti Teknologi Malaysia (UTM)
 
@@ -91,3 +97,9 @@ Welcome to my GitHub corner.
 
 I thrive on curiosity and collaboration. Join me on this thrilling journey where we unravel the mysteries of captivating digital experiences.
 Together, we can create, innovate, and inspire.
+
+
+
+
+
+
