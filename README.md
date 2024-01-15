@@ -16,8 +16,6 @@ Welcome to my GitHub corner.
 ###
 - 📅 Born on 14.03.2002 
 - 🏫 Bachelor of Computer Science (Data Engineering) student in Universiti Teknologi Malaysia  
-- 🧠 On a quest to explore deeper into the world of data with the science of algorithms and visually stunning designs  
-- 🌟 Fascinated by the power of data and the art of design to shape perceptions and experiences
 - 🌐 Connect with me
 
 <div align="center">
@@ -91,12 +89,7 @@ Welcome to my GitHub corner.
   <img src="https://komarev.com/ghpvc/?username=shinpearll&label=Profile%20views&color=0e75b6&style=flat" alt="shinpearll" /> </p>
 </div>
 
-###
 
-## 🌠 Let's Collaborate
-
-I thrive on curiosity and collaboration. Join me on this thrilling journey where we unravel the mysteries of captivating digital experiences.
-Together, we can create, innovate, and inspire.
 
 
 
